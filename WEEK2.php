@@ -23,7 +23,7 @@
         <ul class="navbar-nav ml-auto">
             <li class="navbar-item active"><a href="WEEK2.PHP" class="nav-link">Home|</a></li>
             <li class="navbar-item"><a href="about.php" class="nav-link">About me|</a></li>
-            <li class="navbar-item"><a href="AmbgResume.pdf" class="nav-link">Resume|</a></li>
+            <li class="navbar-item"><a href="AnelMbgResume.pdf" class="nav-link">Resume|</a></li>
             <li class="navbar-item"><a href="portfolio.php" class="nav-link">Portfolio|</a></li>
             <li class="navbar-item"><a href="contact.php" class="nav-link">Contact me|</a> </li>  
         </ul>
