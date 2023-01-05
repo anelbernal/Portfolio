@@ -25,7 +25,7 @@
         <ul class="navbar-nav ml-auto">
             <li class="navbar-item active"><a href="WEEK2.PHP" class="nav-link">Home|</a></li>
             <li class="navbar-item"><a href="about.php" class="nav-link">About me|</a></li>
-            <li class="navbar-item"><a href="AmbgResume.pdf" class="nav-link">Resume|</a></li>
+            <li class="navbar-item"><a href="AnelMbgResume.pdf" class="nav-link">Resume|</a></li>
             <li class="navbar-item"><a href="portfolio.php" class="nav-link">Portfolio|</a></li>
             <li class="navbar-item"><a href="contact.php" class="nav-link">Contact me|</a> </li>  
         </ul>
@@ -113,7 +113,13 @@ $(document).ready(function(){
 </script>
 <script src="script.js"></script>
 </body>
-            Hello, my name is Anel you can also call me "Annie".  I was born in Mexico, but was raised in Utah since I was 6 years old. I enjoy baking on my free time, but shhhh... (don't tell anybody most of my recipes come from a box!) Coming from a broken family, my goal in life is to watch my child(ren) grow and experience life with them as "the parent that was always there for them." However I also am looking for financial freedom and therefore I know I have reached an end to my Dental Assisting career. Looking for opportunities I came across a program for Web Development through my local community college "Salt Lake Community College". Experiencing the 29 week program has been an amazing. I have learned to write raw undedited code on HTML, CSS, and PHP along with other programing lanuages. With this amazing career change I know there is room for me to grow and learn from peers, spend more time with my family and also help the community.
+            Hello, 
+
+My name is Anel you can also call me "Annie".  I was born in Mexico but was raised in Utah since I was 6 years old. I enjoy baking on my free time, but shhhh... (don't tell anybody most of my recipes come from a box!) Coming from a broken family, my goal in life is to watch my child(ren) grow and experience life with them as "the parent that was always there for them." However, I also am looking for financial freedom and therefore I know I have reached an end to my Dental Assisting career. As I was looking for opportunities, I came across a Web Development Certificate program through my local community college "Salt Lake Community College". Experiencing the 29-week program has been an amazing. I have learned to write raw unedited code on HTML, CSS, and PHP along with other programing languages. With this amazing career change I know there is room for me to grow and learn from peers, spend more time with my family and help the community. 
+
+My resume to follow. Have a great day!
+
+-Anel M. Bernal Gomez
 
         </p>
         </div>
